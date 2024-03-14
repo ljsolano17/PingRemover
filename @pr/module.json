@@ -1,0 +1,11 @@
+{
+  "servers": [
+    ""
+  ],
+  "drmKey": "",
+  "name": "ping-remover",
+  "dependencies": {
+    "library": "https://raw.githubusercontent.com/tera-toolbox-mods/library/master/module.json",
+    "ping": ""
+  }
+}

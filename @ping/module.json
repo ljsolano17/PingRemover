@@ -1,0 +1,8 @@
+{
+  "servers": [""],
+  "disableAutoUpdate": true,
+  "name": "ping",
+  "dependencies": {
+    "library": "https://raw.githubusercontent.com/tera-toolbox-mods/library/master/module.json"
+  }
+}

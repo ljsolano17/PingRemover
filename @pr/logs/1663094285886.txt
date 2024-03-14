@@ -1,0 +1,400 @@
+[PR][21:36:48][8624][S_ABNORMALITY_BEGIN] <-R id:99020020 stacks:1 duration:2147138178
+[PR][21:36:48][8625][S_ABNORMALITY_BEGIN] <-R id:5020003 stacks:1 duration:2147138178
+[PR][21:36:48][8625][S_ABNORMALITY_BEGIN] <-R id:5020005 stacks:1 duration:2147138178
+[PR][21:36:48][8625][S_ABNORMALITY_BEGIN] <-R id:8000093 stacks:1 duration:2147138178
+[PR][21:36:48][8625][S_ABNORMALITY_BEGIN] <-R id:8000079 stacks:1 duration:2147138178
+[PR][21:36:48][8625][S_ABNORMALITY_BEGIN] <-R id:8000089 stacks:1 duration:2147138178
+[PR][21:36:48][8625][S_ABNORMALITY_BEGIN] <-R id:5020017 stacks:1 duration:2147138178
+[PR][21:36:48][8626][S_ABNORMALITY_BEGIN] <-R id:8000156 stacks:1 duration:2147138178
+[PR][21:36:48][8626][S_ABNORMALITY_BEGIN] <-R id:5020019 stacks:1 duration:2147138178
+[PR][21:36:48][8626][S_ABNORMALITY_BEGIN] <-R id:6008 stacks:1 duration:3137234
+[PR][21:36:48][8626][S_ABNORMALITY_BEGIN] <-R id:81000021 stacks:1 duration:2147144866
+[PR][21:36:48][8626][S_ABNORMALITY_BEGIN] <-R id:70244 stacks:1 duration:800563
+[PR][21:36:48][8636][C_PLAYER_LOCATION] R-> type:7 w:-1.73 loc:34794:38528:9397
+[PR][21:36:48][8636][S_INSTANT_MOVE] <-F w:-1.73 loc:34794:38528:9397
+[PR][21:36:49][9421][C_PLAYER_LOCATION] R-> type:0 w:1.353 loc:34795:38529:9397
+[PR][21:36:49][9786][C_PLAYER_LOCATION] R-> type:0 w:1.335 loc:34813:38608:9396
+[PR][21:36:49][9918][C_PLAYER_LOCATION] R-> type:0 w:2.09 loc:34819:38636:9395
+[PR][21:36:50][10031][C_PLAYER_LOCATION] R-> type:7 w:2.066 loc:34808:38656:9396
+[PR][21:36:50][10155][C_PRESS_SKILL] R-> skill:20200 press:1 w:-1.861 loc:34808:38656:9396 unkn1:undefined unkn2:undefined unkn3:undefined
+[PR][21:36:50][10155][S_ACTION_END] <-F skill:20200 type:4 loc:34808:38656:9396
+[PR][21:36:50][10156][S_ACTION_STAGE] <-F skill:20200 stage:0 speed:1 ps:1 es:1 w:-1.861 loc:34808:38656:9396 dest:0:0:NaN animSeq:[]
+[PR][21:36:50][10168][C_PRESS_SKILL] R-> skill:20200 press:0 w:-1.861 loc:34808:38656:9396 unkn1:undefined unkn2:undefined unkn3:undefined
+[PR][21:36:50][10168][S_ACTION_END] <-F skill:20200 type:10 loc:34808:38656:9396
+[PR][21:36:50][10224][S_ABNORMALITY_BEGIN] <-R id:201700 stacks:1 duration:1000
+[PR][21:36:50][10224][S_ABNORMALITY_BEGIN] <-R id:22040 stacks:1 duration:10000
+[PR][21:36:50][10224][S_ACTION_STAGE] <-R skill:20200 stage:0 speed:1 ps:1 es:1 w:-1.861 loc:34808:38656:9396 dest:0:0:0 animSeq:[]
+[PR][21:36:50][10239][S_ACTION_END] <-R skill:20200 type:51 loc:34808:38656:9396
+[PR][21:36:50][10239][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:36:50][10503][C_PRESS_SKILL] R-> skill:20200 press:1 w:-1.941 loc:34808:38656:9396 unkn1:undefined unkn2:undefined unkn3:undefined
+[PR][21:36:50][10504][S_ACTION_END] <-F skill:20200 type:4 loc:34808:38656:9396
+[PR][21:36:50][10504][S_ACTION_STAGE] <-F skill:20200 stage:0 speed:1 ps:1 es:1 w:-1.941 loc:34808:38656:9396 dest:0:0:NaN animSeq:[]
+[PR][21:36:50][10672][S_ABNORMALITY_REFRESH] <-R id:201700 stacks:1 duration:1000
+[PR][21:36:50][10672][S_ABNORMALITY_REFRESH] <-R id:22040 stacks:1 duration:10000
+[PR][21:36:50][10672][S_ACTION_STAGE] <-R skill:20200 stage:0 speed:1 ps:1 es:1 w:-1.941 loc:34808:38656:9396 dest:0:0:0 animSeq:[]
+[PR][21:36:50][10781][C_PRESS_SKILL] R-> skill:20200 press:0 w:-1.955 loc:34808:38656:9396 unkn1:undefined unkn2:undefined unkn3:undefined
+[PR][21:36:50][10782][S_ACTION_END] <-F skill:20200 type:10 loc:34808:38656:9396
+[PR][21:36:50][10834][S_ACTION_STAGE] <-R skill:20200 stage:1 speed:1 ps:1 es:1 w:-1.941 loc:34808:38656:9396 dest:0:0:0 animSeq:[]
+[PR][21:36:50][10852][S_ACTION_END] <-R skill:20200 type:51 loc:34808:38656:9396
+[PR][21:36:50][10852][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:36:51][11037][C_START_SKILL] R-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.798 loc:34808:38656:9396 dest:0:0:0
+[PR][21:36:51][11043][S_ACTION_STAGE] <-F skill:181100 stage:0 speed:1.38 ps:1.38 es:1 w:-0.798 loc:34808:38656:9396 dest:0:0:NaN animSeq:[]
+[PR][21:36:51][11068][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.798 loc:34808:38656:9396 dest:0:0:0
+[PR][21:36:51][11092][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.798 loc:34808:38656:9396 dest:0:0:0
+[PR][21:36:51][11119][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.798 loc:34808:38656:9396 dest:0:0:0
+[PR][21:36:51][11142][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.798 loc:34808:38656:9396 dest:0:0:0
+[PR][21:36:51][11174][S_ACTION_STAGE] <-R skill:181100 stage:0 speed:1.38 ps:1.38 es:1 w:-0.798 loc:34808:38656:9396 dest:34879:38582:9390 animSeq:[]
+[PR][21:36:51][11174][EMULATION-VALIDATION] NOT CORRECT IDS
+[PR][21:36:51][11174][S_ABNORMALITY_BEGIN] <-R id:201831 stacks:1 duration:2000
+[PR][21:36:51][11192][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.798 loc:34808:38656:9396 dest:0:0:0
+[PR][21:36:51][11242][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.798 loc:34808:38656:9396 dest:0:0:0
+[PR][21:36:51][11256][S_START_COOLTIME_SKILL] <-R skill:181100 cooldown:2530 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:36:51][11370][C_START_SKILL] R-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.793 loc:34871:38591:9390 dest:0:0:0
+[PR][21:36:51][11373][S_ACTION_END] <-F skill:181100 type:4 loc:34808:38656:9396
+[PR][21:36:51][11374][S_ACTION_STAGE] <-F skill:131130 stage:0 speed:1.38 ps:1.38 es:1 w:-0.793 loc:34871:38591:9390 dest:0:0:NaN animSeq:[]
+[PR][21:36:51][11399][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.793 loc:34871:38591:9390 dest:0:0:0
+[PR][21:36:51][11424][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.793 loc:34871:38591:9390 dest:0:0:0
+[PR][21:36:51][11441][S_ACTION_END] <-R skill:181100 type:4 loc:34872:38590:9390
+[PR][21:36:51][11441][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:36:51][11442][S_ABNORMALITY_END] <-R id:201831
+[PR][21:36:51][11442][S_ACTION_STAGE] <-R skill:131130 stage:0 speed:1.38 ps:1.38 es:1 w:-0.793 loc:34871:38591:9390 dest:34930:38530:9385 animSeq:[]
+[PR][21:36:51][11442][EMULATION-VALIDATION] NOT CORRECT IDS
+[PR][21:36:51][11449][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.793 loc:34871:38591:9390 dest:0:0:0
+[PR][21:36:51][11474][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.793 loc:34871:38591:9390 dest:0:0:0
+[PR][21:36:51][11474][S_ABNORMALITY_BEGIN] <-R id:201831 stacks:1 duration:2000
+[PR][21:36:51][11524][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.793 loc:34871:38591:9390 dest:0:0:0
+[PR][21:36:51][11553][S_ABNORMALITY_END] <-R id:201700
+[PR][21:36:51][11574][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.793 loc:34871:38591:9390 dest:0:0:0
+[PR][21:36:51][11647][S_START_COOLTIME_SKILL] <-R skill:131130 cooldown:2530 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:36:51][11647][S_START_COOLTIME_SKILL] <-R skill:131100 cooldown:2530 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:36:52][12707][S_ACTION_END] <-F skill:131130 type:0 loc:34871:38591:9392
+[PR][21:36:52][12817][S_ACTION_END] <-R skill:131130 type:0 loc:34930:38530:9385
+[PR][21:36:52][12817][S_ABNORMALITY_END] <-R id:201831
+[PR][21:36:55][15535][C_PLAYER_LOCATION] R-> type:0 w:2.304 loc:34929:38532:9387
+[PR][21:36:55][15870][C_PLAYER_LOCATION] R-> type:0 w:3.089 loc:34879:38586:9390
+[PR][21:36:55][15945][C_PLAYER_LOCATION] R-> type:0 w:-2.409 loc:34862:38586:9391
+[PR][21:36:56][16058][C_PLAYER_LOCATION] R-> type:7 w:-2.409 loc:34845:38570:9394
+[PR][21:36:56][16764][C_PRESS_SKILL] R-> skill:20200 press:0 w:-0.838 loc:34845:38570:9394 unkn1:undefined unkn2:undefined unkn3:undefined
+[PR][21:36:59][19643][C_PLAYER_LOCATION] R-> type:0 w:0.137 loc:34846:38570:9394
+[PR][21:36:59][19679][C_PRESS_SKILL] R-> skill:20200 press:1 w:-1.492 loc:34853:38571:9393 unkn1:undefined unkn2:undefined unkn3:undefined
+[PR][21:36:59][19679][S_ACTION_END] <-F skill:131130 type:4 loc:34853:38571:9393
+[PR][21:36:59][19680][S_ACTION_STAGE] <-F skill:20200 stage:0 speed:1 ps:1 es:1 w:-1.492 loc:34853:38571:9393 dest:0:0:NaN animSeq:[]
+[PR][21:36:59][19755][S_ABNORMALITY_BEGIN] <-R id:201700 stacks:1 duration:1000
+[PR][21:36:59][19755][S_ABNORMALITY_REFRESH] <-R id:22040 stacks:1 duration:10000
+[PR][21:36:59][19755][S_ACTION_STAGE] <-R skill:20200 stage:0 speed:1 ps:1 es:1 w:-1.492 loc:34853:38571:9393 dest:0:0:0 animSeq:[]
+[PR][21:36:59][19811][C_PRESS_SKILL] R-> skill:20200 press:0 w:-1.616 loc:34854:38571:9393 unkn1:undefined unkn2:undefined unkn3:undefined
+[PR][21:36:59][19812][S_ACTION_END] <-F skill:20200 type:10 loc:34854:38571:9393
+[PR][21:36:59][19819][C_PLAYER_LOCATION] R-> type:0 w:-0.046 loc:34855:38571:9393
+[PR][21:36:59][19832][C_PLAYER_LOCATION] R-> type:7 w:-0.046 loc:34855:38571:9393
+[PR][21:36:59][19879][S_ACTION_END] <-R skill:20200 type:51 loc:34853:38571:9393
+[PR][21:36:59][19880][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:36:59][19931][C_START_SKILL] R-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-1.437 loc:34855:38571:9393 dest:0:0:0
+[PR][21:36:59][19934][S_ACTION_STAGE] <-F skill:181100 stage:0 speed:1.38 ps:1.38 es:1 w:-1.437 loc:34855:38571:9393 dest:0:0:NaN animSeq:[]
+[PR][21:36:59][19960][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-1.437 loc:34855:38571:9393 dest:0:0:0
+[PR][21:36:59][19986][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-1.437 loc:34855:38571:9393 dest:0:0:0
+[PR][21:37:00][20006][S_ACTION_STAGE] <-R skill:181100 stage:0 speed:1.38 ps:1.38 es:1 w:-1.437 loc:34855:38571:9393 dest:34869:38469:9390 animSeq:[]
+[PR][21:37:00][20006][EMULATION-VALIDATION] NOT CORRECT IDS
+[PR][21:37:00][20010][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-1.437 loc:34855:38571:9393 dest:0:0:0
+[PR][21:37:00][20034][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-1.437 loc:34855:38571:9393 dest:0:0:0
+[PR][21:37:00][20052][S_ABNORMALITY_BEGIN] <-R id:201831 stacks:1 duration:2000
+[PR][21:37:00][20085][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-1.437 loc:34855:38571:9393 dest:0:0:0
+[PR][21:37:00][20135][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-1.437 loc:34855:38571:9393 dest:0:0:0
+[PR][21:37:00][20158][C_START_SKILL] R-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-1.145 loc:34865:38497:9392 dest:0:0:0
+[PR][21:37:00][20162][S_ACTION_END] <-F skill:181100 type:4 loc:34855:38571:9393
+[PR][21:37:00][20163][S_ACTION_STAGE] <-F skill:131130 stage:0 speed:1.38 ps:1.38 es:1 w:-1.145 loc:34865:38497:9392 dest:0:0:NaN animSeq:[]
+[PR][21:37:00][20176][S_START_COOLTIME_SKILL] <-R skill:181100 cooldown:2530 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:00][20187][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-1.145 loc:34865:38497:9392 dest:0:0:0
+[PR][21:37:00][20212][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-1.145 loc:34865:38497:9392 dest:0:0:0
+[PR][21:37:00][20224][S_ACTION_END] <-R skill:181100 type:4 loc:34865:38497:9391
+[PR][21:37:00][20224][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:37:00][20224][S_ABNORMALITY_END] <-R id:201831
+[PR][21:37:00][20225][S_ACTION_STAGE] <-R skill:131130 stage:0 speed:1.38 ps:1.38 es:1 w:-1.145 loc:34865:38497:9392 dest:34900:38419:9386 animSeq:[]
+[PR][21:37:00][20225][EMULATION-VALIDATION] NOT CORRECT IDS
+[PR][21:37:00][20237][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-1.145 loc:34865:38497:9392 dest:0:0:0
+[PR][21:37:00][20261][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-1.145 loc:34865:38497:9392 dest:0:0:0
+[PR][21:37:00][20271][S_ABNORMALITY_BEGIN] <-R id:201831 stacks:1 duration:2000
+[PR][21:37:00][20312][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-1.145 loc:34865:38497:9392 dest:0:0:0
+[PR][21:37:00][20361][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-1.145 loc:34865:38497:9392 dest:0:0:0
+[PR][21:37:00][20458][S_START_COOLTIME_SKILL] <-R skill:131130 cooldown:2530 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:00][20458][S_START_COOLTIME_SKILL] <-R skill:131100 cooldown:2530 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:00][20624][C_PRESS_SKILL] R-> skill:20200 press:1 w:-2.45 loc:34891:38438:9387 unkn1:undefined unkn2:undefined unkn3:undefined
+[PR][21:37:00][20624][S_ACTION_END] <-F skill:131130 type:4 loc:34891:38438:9387
+[PR][21:37:00][20625][S_ACTION_STAGE] <-F skill:20200 stage:0 speed:1 ps:1 es:1 w:-2.45 loc:34891:38438:9387 dest:0:0:NaN animSeq:[]
+[PR][21:37:00][20679][C_CANCEL_SKILL] R-> skill:20200 type:2
+[PR][21:37:00][20692][S_ACTION_END] <-R skill:131130 type:6 loc:34890:38441:9387
+[PR][21:37:00][20692][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:37:00][20692][S_ABNORMALITY_END] <-R id:201831
+[PR][21:37:00][20693][S_ABNORMALITY_REFRESH] <-R id:201700 stacks:1 duration:1000
+[PR][21:37:00][20693][S_ABNORMALITY_REFRESH] <-R id:22040 stacks:1 duration:10000
+[PR][21:37:00][20694][S_ACTION_STAGE] <-R skill:20200 stage:0 speed:1 ps:1 es:1 w:-2.45 loc:34891:38438:9387 dest:0:0:0 animSeq:[]
+[PR][21:37:00][20721][C_PRESS_SKILL] R-> skill:20200 press:0 w:-2.512 loc:34891:38438:9387 unkn1:undefined unkn2:undefined unkn3:undefined
+[PR][21:37:00][20721][S_ACTION_END] <-F skill:20200 type:10 loc:34891:38438:9387
+[PR][21:37:00][20729][C_PLAYER_LOCATION] R-> type:0 w:2.202 loc:34891:38438:9387
+[PR][21:37:00][20786][S_ACTION_END] <-R skill:20200 type:51 loc:34891:38438:9387
+[PR][21:37:00][20787][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:37:01][21046][C_PLAYER_LOCATION] R-> type:7 w:2.406 loc:34850:38483:9392
+[PR][21:37:01][21613][S_ABNORMALITY_REFRESH] <-R id:4030 stacks:1 duration:1800000
+[PR][21:37:01][21614][S_ABNORMALITY_REFRESH] <-R id:4032 stacks:1 duration:1800000
+[PR][21:37:01][21615][S_ABNORMALITY_REFRESH] <-R id:4833 stacks:1 duration:1800000
+[PR][21:37:01][21615][S_ABNORMALITY_REFRESH] <-R id:922 stacks:1 duration:1800000
+[PR][21:37:01][21616][S_ABNORMALITY_REFRESH] <-R id:70244 stacks:1 duration:900000
+[PR][21:37:01][21751][S_ABNORMALITY_END] <-R id:201700
+[PR][21:37:02][22086][C_PLAYER_LOCATION] R-> type:0 w:2.406 loc:34849:38484:9393
+[PR][21:37:02][22221][C_PLAYER_LOCATION] R-> type:7 w:2.406 loc:34829:38503:9396
+[PR][21:37:03][23172][C_PLAYER_LOCATION] R-> type:0 w:-2.307 loc:34828:38502:9396
+[PR][21:37:03][23275][C_PLAYER_LOCATION] R-> type:7 w:-2.307 loc:34813:38486:9395
+[PR][21:37:03][23485][C_PLAYER_LOCATION] R-> type:0 w:0.835 loc:34815:38488:9395
+[PR][21:37:03][23539][C_PLAYER_LOCATION] R-> type:7 w:0.835 loc:34822:38496:9396
+[PR][21:37:04][24239][C_PLAYER_LOCATION] R-> type:0 w:2.406 loc:34821:38497:9396
+[PR][21:37:04][24310][C_PLAYER_LOCATION] R-> type:7 w:2.406 loc:34810:38507:9396
+[PR][21:37:04][24327][C_PLAYER_LOCATION] R-> type:0 w:0.835 loc:34811:38508:9396
+[PR][21:37:04][24532][C_PLAYER_LOCATION] R-> type:0 w:0.05 loc:34842:38540:9395
+[PR][21:37:04][24544][C_PLAYER_LOCATION] R-> type:0 w:-0.736 loc:34844:38539:9395
+[PR][21:37:04][24630][C_PLAYER_LOCATION] R-> type:7 w:-0.736 loc:34857:38528:9394
+[PR][21:37:04][24860][C_PLAYER_LOCATION] R-> type:0 w:-2.307 loc:34856:38527:9394
+[PR][21:37:04][24909][C_PLAYER_LOCATION] R-> type:7 w:-2.307 loc:34849:38519:9394
+[PR][21:37:05][25763][C_PLAYER_LOCATION] R-> type:0 w:2.958 loc:34848:38520:9394
+[PR][21:37:05][25821][C_PLAYER_LOCATION] R-> type:7 w:2.958 loc:34837:38522:9396
+[PR][21:37:06][26712][S_EACH_SKILL_RESULT] <-R push:0 air:0 airChain:0 skill:1030202 stage:0 w:2.999 loc:34837:38522:9395 animSeq:["{\"duration\":1450,\"xyRate\":1,\"zRate\":1,\"distance\":-1}","{\"duration\":354,\"xyRate\":1,\"zRate\":1,\"distance\":-1}","{\"duration\":1288,\"xyRate\":1,\"zRate\":1,\"distance\":100.002}"]
+[PR][21:37:06][26712][S_ABNORMALITY_BEGIN] <-R id:201809 stacks:1 duration:2147483647
+[PR][21:37:07][27479][C_START_SKILL] R-> skill:111000 byGrant:0 moving:1 destPosOnAir:1 isPerfectCombo:0 w:0.18 loc:34936:38508:9386 dest:0:0:0
+[PR][21:37:07][27484][S_ACTION_STAGE] <-F skill:111000 stage:0 speed:1.38 ps:1.38 es:1 w:0.18 loc:34936:38508:9386 dest:0:0:NaN animSeq:[]
+[PR][21:37:07][27557][S_ACTION_END] <-R skill:1030202 type:5 loc:34936:38507:9385
+[PR][21:37:07][27558][S_ACTION_STAGE] <-R skill:111000 stage:0 speed:1.38 ps:1.38 es:1 w:0.18 loc:34936:38508:9386 dest:34936:38508:9385 animSeq:[]
+[PR][21:37:07][27558][EMULATION-VALIDATION] NOT CORRECT IDS
+[PR][21:37:07][27774][S_START_COOLTIME_SKILL] <-R skill:111000 cooldown:9655 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:07][27774][S_ABNORMALITY_BEGIN] <-R id:101 stacks:1 duration:2100
+[PR][21:37:08][28089][C_CANCEL_SKILL] R-> skill:111000 type:2
+[PR][21:37:08][28393][C_PRESS_SKILL] R-> skill:20200 press:1 w:2.849 loc:34936:38508:9386 unkn1:undefined unkn2:undefined unkn3:undefined
+[PR][21:37:08][28393][S_ACTION_END] <-F skill:111000 type:4 loc:34936:38508:9386
+[PR][21:37:08][28394][S_ACTION_STAGE] <-F skill:20200 stage:0 speed:1 ps:1 es:1 w:2.849 loc:34936:38508:9386 dest:0:0:NaN animSeq:[]
+[PR][21:37:08][28468][S_ACTION_END] <-R skill:111000 type:6 loc:34936:38508:9385
+[PR][21:37:08][28468][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:37:08][28469][S_ABNORMALITY_BEGIN] <-R id:201700 stacks:1 duration:1000
+[PR][21:37:08][28469][S_ABNORMALITY_REFRESH] <-R id:22040 stacks:1 duration:10000
+[PR][21:37:08][28469][S_ACTION_STAGE] <-R skill:20200 stage:0 speed:1 ps:1 es:1 w:2.849 loc:34936:38508:9386 dest:0:0:0 animSeq:[]
+[PR][21:37:08][28503][C_PRESS_SKILL] R-> skill:20200 press:0 w:2.888 loc:34936:38508:9386 unkn1:undefined unkn2:undefined unkn3:undefined
+[PR][21:37:08][28503][S_ACTION_END] <-F skill:20200 type:10 loc:34936:38508:9386
+[PR][21:37:08][28511][C_PLAYER_LOCATION] R-> type:0 w:1.319 loc:34936:38508:9386
+[PR][21:37:08][28562][S_ACTION_END] <-R skill:20200 type:51 loc:34936:38508:9386
+[PR][21:37:08][28562][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:37:08][28870][C_PLAYER_LOCATION] R-> type:7 w:1.379 loc:34945:38552:9384
+[PR][21:37:09][29025][C_START_SKILL] R-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.836 loc:34945:38552:9384 dest:0:0:0
+[PR][21:37:09][29029][S_ACTION_STAGE] <-F skill:181100 stage:0 speed:1.38 ps:1.38 es:1 w:2.836 loc:34945:38552:9384 dest:0:0:NaN animSeq:[]
+[PR][21:37:09][29053][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.836 loc:34945:38552:9384 dest:0:0:0
+[PR][21:37:09][29080][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.836 loc:34945:38552:9384 dest:0:0:0
+[PR][21:37:09][29096][S_ACTION_STAGE] <-R skill:181100 stage:0 speed:1.38 ps:1.38 es:1 w:2.836 loc:34945:38552:9384 dest:34847:38583:9394 animSeq:[]
+[PR][21:37:09][29097][EMULATION-VALIDATION] NOT CORRECT IDS
+[PR][21:37:09][29103][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.836 loc:34945:38552:9384 dest:0:0:0
+[PR][21:37:09][29115][S_ABNORMALITY_BEGIN] <-R id:201831 stacks:1 duration:2000
+[PR][21:37:09][29129][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.836 loc:34945:38552:9384 dest:0:0:0
+[PR][21:37:09][29178][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.836 loc:34945:38552:9384 dest:0:0:0
+[PR][21:37:09][29228][C_START_SKILL] F-> skill:181100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.836 loc:34945:38552:9384 dest:0:0:0
+[PR][21:37:09][29248][S_START_COOLTIME_SKILL] <-R skill:181100 cooldown:2530 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:09][29310][C_START_SKILL] R-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.299 loc:34862:38578:9392 dest:0:0:0
+[PR][21:37:09][29313][S_ACTION_END] <-F skill:181100 type:4 loc:34945:38552:9384
+[PR][21:37:09][29313][S_ACTION_STAGE] <-F skill:131130 stage:0 speed:1.38 ps:1.38 es:1 w:2.299 loc:34862:38578:9392 dest:0:0:NaN animSeq:[]
+[PR][21:37:09][29337][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.299 loc:34862:38578:9392 dest:0:0:0
+[PR][21:37:09][29362][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.299 loc:34862:38578:9392 dest:0:0:0
+[PR][21:37:09][29373][S_ACTION_END] <-R skill:181100 type:4 loc:34861:38579:9392
+[PR][21:37:09][29373][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:37:09][29373][S_ABNORMALITY_END] <-R id:201831
+[PR][21:37:09][29374][S_ACTION_STAGE] <-R skill:131130 stage:0 speed:1.38 ps:1.38 es:1 w:2.299 loc:34862:38578:9392 dest:34806:38642:9395 animSeq:[]
+[PR][21:37:09][29374][EMULATION-VALIDATION] NOT CORRECT IDS
+[PR][21:37:09][29387][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.299 loc:34862:38578:9392 dest:0:0:0
+[PR][21:37:09][29412][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.299 loc:34862:38578:9392 dest:0:0:0
+[PR][21:37:09][29451][S_ABNORMALITY_BEGIN] <-R id:201831 stacks:1 duration:2000
+[PR][21:37:09][29463][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.299 loc:34862:38578:9392 dest:0:0:0
+[PR][21:37:09][29483][S_ABNORMALITY_END] <-R id:201700
+[PR][21:37:09][29512][C_START_SKILL] F-> skill:131100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.299 loc:34862:38578:9392 dest:0:0:0
+[PR][21:37:09][29593][S_START_COOLTIME_SKILL] <-R skill:131130 cooldown:2530 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:09][29593][S_START_COOLTIME_SKILL] <-R skill:131100 cooldown:2530 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:09][29860][S_ABNORMALITY_END] <-R id:101
+[PR][21:37:09][29893][C_START_SKILL] R-> skill:210402 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.342 loc:34814:38632:9395 dest:0:0:0
+[PR][21:37:09][29897][S_ACTION_END] <-F skill:131130 type:4 loc:34862:38578:9392
+[PR][21:37:09][29897][S_ACTION_STAGE] <-F skill:210430 stage:0 speed:1.38 ps:1.38 es:1 w:2.342 loc:34814:38632:9395 dest:0:0:NaN animSeq:[]
+[PR][21:37:09][29921][C_START_SKILL] F-> skill:210401 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.342 loc:34814:38632:9395 dest:0:0:0
+[PR][21:37:09][29947][C_START_SKILL] F-> skill:210401 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.342 loc:34814:38632:9395 dest:0:0:0
+[PR][21:37:09][29969][S_ACTION_END] <-R skill:131130 type:4 loc:34814:38633:9396
+[PR][21:37:09][29969][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:37:09][29969][S_ABNORMALITY_END] <-R id:201831
+[PR][21:37:09][29970][S_ACTION_STAGE] <-R skill:210430 stage:0 speed:1.38 ps:1.38 es:1 w:2.342 loc:34814:38632:9395 dest:34743:38706:9403 animSeq:[]
+[PR][21:37:09][29970][EMULATION-VALIDATION] NOT CORRECT IDS
+[PR][21:37:09][29972][C_START_SKILL] F-> skill:210401 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.342 loc:34814:38632:9395 dest:0:0:0
+[PR][21:37:09][29997][C_START_SKILL] F-> skill:210401 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.342 loc:34814:38632:9395 dest:0:0:0
+[PR][21:37:10][30046][C_START_SKILL] F-> skill:210401 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.342 loc:34814:38632:9395 dest:0:0:0
+[PR][21:37:10][30079][S_START_COOLTIME_SKILL] <-R skill:210430 cooldown:9655 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:10][30079][S_START_COOLTIME_SKILL] <-R skill:210400 cooldown:9655 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:10][30079][S_START_COOLTIME_SKILL] <-R skill:210401 cooldown:9655 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:10][30080][S_START_COOLTIME_SKILL] <-R skill:210402 cooldown:9655 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:10][30096][C_START_SKILL] F-> skill:210401 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.342 loc:34814:38632:9395 dest:0:0:0
+[PR][21:37:10][30232][C_START_SKILL] R-> skill:251000 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.435 loc:34748:38700:9403 dest:0:0:0
+[PR][21:37:10][30235][S_ACTION_END] <-F skill:210430 type:4 loc:34814:38632:9395
+[PR][21:37:10][30236][S_ACTION_STAGE] <-F skill:251030 stage:0 speed:1.38 ps:1.38 es:1 w:2.435 loc:34748:38700:9403 dest:0:0:NaN animSeq:[]
+[PR][21:37:10][30259][C_START_SKILL] F-> skill:251000 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.435 loc:34748:38700:9403 dest:0:0:0
+[PR][21:37:10][30284][C_START_SKILL] F-> skill:251000 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.435 loc:34748:38700:9403 dest:0:0:0
+[PR][21:37:10][30310][C_START_SKILL] F-> skill:251000 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.435 loc:34748:38700:9403 dest:0:0:0
+[PR][21:37:10][30335][C_START_SKILL] F-> skill:251000 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.435 loc:34748:38700:9403 dest:0:0:0
+[PR][21:37:10][30371][S_ACTION_END] <-R skill:210430 type:4 loc:34749:38700:9403
+[PR][21:37:10][30371][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:37:10][30372][S_ACTION_STAGE] <-R skill:251030 stage:0 speed:1.38 ps:1.38 es:1 w:2.435 loc:34748:38700:9403 dest:34672:38765:9410 animSeq:[]
+[PR][21:37:10][30372][EMULATION-VALIDATION] NOT CORRECT IDS
+[PR][21:37:10][30385][C_START_SKILL] F-> skill:251000 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.435 loc:34748:38700:9403 dest:0:0:0
+[PR][21:37:10][30435][C_START_SKILL] F-> skill:251000 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.435 loc:34748:38700:9403 dest:0:0:0
+[PR][21:37:10][30780][S_START_COOLTIME_SKILL] <-R skill:251030 cooldown:6417 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:10][30780][S_START_COOLTIME_SKILL] <-R skill:251000 cooldown:6417 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:10][30797][C_START_SKILL] R-> skill:280100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.826 loc:34672:38765:9410 dest:0:0:0
+[PR][21:37:10][30800][S_ACTION_END] <-F skill:251030 type:4 loc:34748:38700:9403
+[PR][21:37:10][30801][S_ACTION_STAGE] <-F skill:280101 stage:0 speed:1.38 ps:1.38 es:1 w:-0.826 loc:34672:38765:9410 dest:0:0:NaN animSeq:[]
+[PR][21:37:10][30826][C_START_SKILL] F-> skill:280100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.826 loc:34672:38765:9410 dest:0:0:0
+[PR][21:37:10][30851][C_START_SKILL] F-> skill:280100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.826 loc:34672:38765:9410 dest:0:0:0
+[PR][21:37:10][30873][S_ACTION_END] <-R skill:251030 type:4 loc:34673:38765:9410
+[PR][21:37:10][30873][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:37:10][30873][S_ACTION_STAGE] <-R skill:280101 stage:0 speed:1.38 ps:1.38 es:1 w:-0.826 loc:34672:38765:9410 dest:34692:38743:9410 animSeq:[]
+[PR][21:37:10][30874][EMULATION-VALIDATION] NOT CORRECT IDS
+[PR][21:37:10][30876][C_START_SKILL] F-> skill:280100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.826 loc:34672:38765:9410 dest:0:0:0
+[PR][21:37:10][30901][C_START_SKILL] F-> skill:280100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.826 loc:34672:38765:9410 dest:0:0:0
+[PR][21:37:10][30951][C_START_SKILL] F-> skill:280100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.826 loc:34672:38765:9410 dest:0:0:0
+[PR][21:37:11][31001][C_START_SKILL] F-> skill:280100 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:-0.826 loc:34672:38765:9410 dest:0:0:0
+[PR][21:37:11][31019][S_ACTION_STAGE] <-F skill:280101 stage:1 speed:1.38 ps:1.38 es:1 w:-0.826 loc:34672:38765:9410 dest:34977:38434:9410 animSeq:[]
+[PR][21:37:11][31022][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34692:38744:9410
+[PR][21:37:11][31047][S_ACTION_STAGE] <-R skill:280101 stage:1 speed:1.38 ps:1.38 es:1 w:-0.826 loc:34692:38743:9410 dest:35010:38398:9379 animSeq:[]
+[PR][21:37:11][31047][EMULATION-VALIDATION] NOT CORRECT IDS
+[PR][21:37:11][31054][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34706:38729:9410
+[PR][21:37:11][31080][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34718:38716:9408
+[PR][21:37:11][31107][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34729:38703:9406
+[PR][21:37:11][31123][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34692:38744:9410
+[PR][21:37:11][31131][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34740:38691:9403
+[PR][21:37:11][31155][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34706:38729:9410
+[PR][21:37:11][31156][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34751:38679:9402
+[PR][21:37:11][31181][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34718:38716:9408
+[PR][21:37:11][31184][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34763:38666:9401
+[PR][21:37:11][31207][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34729:38703:9406
+[PR][21:37:11][31212][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34776:38653:9400
+[PR][21:37:11][31232][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34740:38691:9403
+[PR][21:37:11][31243][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34788:38639:9398
+[PR][21:37:11][31257][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34751:38679:9402
+[PR][21:37:11][31267][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34800:38626:9396
+[PR][21:37:11][31285][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34763:38666:9401
+[PR][21:37:11][31296][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34813:38613:9396
+[PR][21:37:11][31312][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34776:38653:9400
+[PR][21:37:11][31325][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34824:38600:9396
+[PR][21:37:11][31343][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34788:38639:9398
+[PR][21:37:11][31353][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34837:38586:9395
+[PR][21:37:11][31368][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34800:38626:9396
+[PR][21:37:11][31378][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34849:38573:9393
+[PR][21:37:11][31396][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34813:38613:9396
+[PR][21:37:11][31405][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34860:38561:9392
+[PR][21:37:11][31426][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34824:38600:9396
+[PR][21:37:11][31431][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34873:38548:9392
+[PR][21:37:11][31453][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34837:38586:9395
+[PR][21:37:11][31459][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34885:38534:9391
+[PR][21:37:11][31479][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34849:38573:9393
+[PR][21:37:11][31487][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34897:38521:9390
+[PR][21:37:11][31505][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34860:38561:9392
+[PR][21:37:11][31508][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34910:38508:9388
+[PR][21:37:11][31526][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34927:38489:9386
+[PR][21:37:11][31533][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34873:38548:9392
+[PR][21:37:11][31540][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34947:38467:9384
+[PR][21:37:11][31558][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34963:38450:9383
+[PR][21:37:11][31561][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34885:38534:9391
+[PR][21:37:11][31573][C_NOTIFY_LOCATION_IN_ACTION] R-> skill:280101 stage:1 w:-0.826 loc:34982:38429:9381
+[PR][21:37:11][31580][S_ACTION_STAGE] <-F skill:280101 stage:2 speed:1.38 ps:1.38 es:1 w:-0.826 loc:34982:38429:9381 dest:34982:38429:9381 animSeq:[]
+[PR][21:37:11][31587][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34897:38521:9390
+[PR][21:37:11][31608][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34910:38508:9388
+[PR][21:37:11][31609][S_START_COOLTIME_SKILL] <-R skill:280101 cooldown:12894 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:11][31610][S_START_COOLTIME_SKILL] <-R skill:280100 cooldown:12894 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:11][31626][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34927:38489:9386
+[PR][21:37:11][31641][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34947:38467:9384
+[PR][21:37:11][31657][S_ACTION_STAGE] <-R skill:280101 stage:2 speed:1.38 ps:1.38 es:1 w:-0.826 loc:34982:38429:9381 dest:34982:38429:9381 animSeq:[]
+[PR][21:37:11][31658][EMULATION-VALIDATION] NOT CORRECT IDS
+[PR][21:37:11][31660][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34963:38450:9383
+[PR][21:37:11][31673][C_NOTIFY_LOCATION_IN_ACTION] F-> skill:280101 stage:1 w:-0.826 loc:34982:38429:9381
+[PR][21:37:11][31802][C_PRESS_SKILL] R-> skill:20200 press:1 w:-2.69 loc:34990:38420:9381 unkn1:undefined unkn2:undefined unkn3:undefined
+[PR][21:37:11][31802][S_ACTION_END] <-F skill:280101 type:4 loc:34990:38420:9381
+[PR][21:37:11][31803][S_ACTION_STAGE] <-F skill:20200 stage:0 speed:1 ps:1 es:1 w:-2.69 loc:34990:38420:9381 dest:0:0:NaN animSeq:[]
+[PR][21:37:11][31873][S_ACTION_END] <-R skill:280101 type:6 loc:34982:38429:9381
+[PR][21:37:11][31873][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:37:11][31874][S_ABNORMALITY_BEGIN] <-R id:201700 stacks:1 duration:1000
+[PR][21:37:11][31874][S_ABNORMALITY_REFRESH] <-R id:22040 stacks:1 duration:10000
+[PR][21:37:11][31874][S_ACTION_STAGE] <-R skill:20200 stage:0 speed:1 ps:1 es:1 w:-2.69 loc:34990:38420:9381 dest:0:0:0 animSeq:[]
+[PR][21:37:11][31930][C_PRESS_SKILL] R-> skill:20200 press:0 w:-2.754 loc:34990:38420:9381 unkn1:undefined unkn2:undefined unkn3:undefined
+[PR][21:37:11][31930][S_ACTION_END] <-F skill:20200 type:10 loc:34990:38420:9381
+[PR][21:37:11][31986][C_PLAYER_LOCATION] R-> type:0 w:1.957 loc:34990:38421:9381
+[PR][21:37:11][31998][S_ACTION_END] <-R skill:20200 type:51 loc:34990:38420:9381
+[PR][21:37:11][31998][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:37:12][32507][C_PLAYER_LOCATION] R-> type:7 w:1.955 loc:34964:38485:9382
+[PR][21:37:12][32858][S_ABNORMALITY_END] <-R id:201700
+[PR][21:37:13][33282][C_PLAYER_LOCATION] R-> type:0 w:1.955 loc:34964:38486:9382
+[PR][21:37:13][33429][C_PLAYER_LOCATION] R-> type:0 w:2.741 loc:34956:38504:9384
+[PR][21:37:13][33903][C_PLAYER_LOCATION] R-> type:0 w:2.451 loc:34901:38538:9389
+[PR][21:37:14][34382][C_PLAYER_LOCATION] R-> type:0 w:-3.035 loc:34851:38579:9393
+[PR][21:37:14][34388][C_PLAYER_LOCATION] R-> type:7 w:-3.035 loc:34851:38579:9393
+[PR][21:37:14][34818][C_PLAYER_LOCATION] R-> type:0 w:-1.383 loc:34851:38578:9393
+[PR][21:37:15][35034][C_PLAYER_LOCATION] R-> type:0 w:-2.075 loc:34859:38550:9393
+[PR][21:37:15][35098][C_PLAYER_LOCATION] R-> type:0 w:-2.902 loc:34854:38543:9394
+[PR][21:37:15][35243][C_PLAYER_LOCATION] R-> type:7 w:-2.959 loc:34835:38539:9396
+[PR][21:37:16][36884][S_EACH_SKILL_RESULT] <-R push:0 air:0 airChain:0 skill:1030202 stage:0 w:-2.872 loc:34835:38539:9395 animSeq:["{\"duration\":1450,\"xyRate\":1,\"zRate\":1,\"distance\":-1}","{\"duration\":354,\"xyRate\":1,\"zRate\":1,\"distance\":-1}","{\"duration\":1288,\"xyRate\":1,\"zRate\":1,\"distance\":100.001}"]
+[PR][21:37:17][37865][C_START_SKILL] R-> skill:111000 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.133 loc:34931:38566:9384 dest:0:0:0
+[PR][21:37:17][37869][S_ACTION_STAGE] <-F skill:111000 stage:0 speed:1.38 ps:1.38 es:1 w:2.133 loc:34931:38566:9384 dest:0:0:NaN animSeq:[]
+[PR][21:37:17][37936][S_ACTION_END] <-R skill:1030202 type:5 loc:34932:38566:9383
+[PR][21:37:17][37936][S_ACTION_STAGE] <-R skill:111000 stage:0 speed:1.38 ps:1.38 es:1 w:2.133 loc:34931:38566:9384 dest:34931:38566:9384 animSeq:[]
+[PR][21:37:17][37936][EMULATION-VALIDATION] NOT CORRECT IDS
+[PR][21:37:18][38154][S_START_COOLTIME_SKILL] <-R skill:111000 cooldown:9655 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:18][38155][S_ABNORMALITY_BEGIN] <-R id:101 stacks:1 duration:2100
+[PR][21:37:18][38567][C_CANCEL_SKILL] R-> skill:111000 type:2
+[PR][21:37:18][38740][C_CANCEL_SKILL] R-> skill:111000 type:2
+[PR][21:37:19][39035][S_ACTION_END] <-F skill:111000 type:0 loc:34931:38566:9386
+[PR][21:37:19][39040][C_PLAYER_LOCATION] R-> type:0 w:1.346 loc:34931:38566:9384
+[PR][21:37:19][39306][S_ACTION_END] <-R skill:111000 type:0 loc:34931:38566:9384
+[PR][21:37:19][39394][C_PLAYER_LOCATION] R-> type:0 w:2.132 loc:34941:38613:9381
+[PR][21:37:19][39455][C_PLAYER_LOCATION] R-> type:7 w:2.132 loc:34937:38619:9381
+[PR][21:37:19][39732][C_PLAYER_LOCATION] R-> type:0 w:-1.01 loc:34938:38619:9381
+[PR][21:37:19][39969][C_PLAYER_LOCATION] R-> type:7 w:-1.01 loc:34954:38592:9380
+[PR][21:37:20][40248][S_ABNORMALITY_END] <-R id:101
+[PR][21:37:20][40345][C_PLAYER_LOCATION] R-> type:0 w:2.132 loc:34954:38593:9380
+[PR][21:37:20][40435][C_PLAYER_LOCATION] R-> type:7 w:2.132 loc:34949:38601:9380
+[PR][21:37:21][41907][S_ABNORMALITY_END] <-R id:22040
+[PR][21:37:23][43385][C_PLAYER_LOCATION] R-> type:0 w:-0.965 loc:34949:38601:9380
+[PR][21:37:23][43617][C_PLAYER_LOCATION] R-> type:0 w:-2.536 loc:34965:38575:9379
+[PR][21:37:23][43751][C_PLAYER_LOCATION] R-> type:0 w:2.964 loc:34950:38565:9383
+[PR][21:37:24][44028][C_PLAYER_LOCATION] R-> type:0 w:-2.862 loc:34913:38563:9386
+[PR][21:37:24][44456][C_PLAYER_LOCATION] R-> type:0 w:3.05 loc:34856:38555:9393
+[PR][21:37:24][44474][C_PLAYER_LOCATION] R-> type:0 w:-2.475 loc:34854:38555:9393
+[PR][21:37:24][44656][C_PLAYER_LOCATION] R-> type:7 w:-2.55 loc:34834:38541:9396
+[PR][21:37:25][45000][C_PLAYER_LOCATION] R-> type:0 w:-2.627 loc:34833:38540:9396
+[PR][21:37:25][45050][C_PLAYER_LOCATION] R-> type:7 w:-2.641 loc:34828:38537:9397
+[PR][21:37:25][45597][S_EACH_SKILL_RESULT] <-R push:0 air:0 airChain:0 skill:1030202 stage:0 w:-2.865 loc:34828:38537:9396 animSeq:["{\"duration\":1450,\"xyRate\":1,\"zRate\":1,\"distance\":-1}","{\"duration\":354,\"xyRate\":1,\"zRate\":1,\"distance\":-1}","{\"duration\":1288,\"xyRate\":1,\"zRate\":1,\"distance\":99.999}"]
+[PR][21:37:27][47898][C_START_SKILL] R-> skill:111000 byGrant:0 moving:0 destPosOnAir:1 isPerfectCombo:0 w:2.071 loc:34924:38564:9385 dest:0:0:0
+[PR][21:37:27][47901][S_ACTION_STAGE] <-F skill:111000 stage:0 speed:1.38 ps:1.38 es:1 w:2.071 loc:34924:38564:9385 dest:0:0:NaN animSeq:[]
+[PR][21:37:27][47975][S_ACTION_END] <-R skill:1030202 type:5 loc:34924:38565:9385
+[PR][21:37:27][47975][S_ACTION_STAGE] <-R skill:111000 stage:0 speed:1.38 ps:1.38 es:1 w:2.071 loc:34924:38564:9385 dest:34924:38564:9385 animSeq:[]
+[PR][21:37:27][47975][EMULATION-VALIDATION] NOT CORRECT IDS
+[PR][21:37:28][48195][S_START_COOLTIME_SKILL] <-R skill:111000 cooldown:9655 usedStacks:undefined nextStackCooldown:undefined
+[PR][21:37:28][48196][S_ABNORMALITY_BEGIN] <-R id:101 stacks:1 duration:2100
+[PR][21:37:28][48423][C_CANCEL_SKILL] R-> skill:111000 type:2
+[PR][21:37:28][48423][C_CANCEL_SKILL] R-> skill:111000 type:2
+[PR][21:37:29][49068][S_ACTION_END] <-F skill:111000 type:0 loc:34924:38564:9387
+[PR][21:37:29][49075][C_PLAYER_LOCATION] R-> type:0 w:2.56 loc:34923:38565:9385
+[PR][21:37:29][49172][S_ACTION_END] <-R skill:111000 type:0 loc:34924:38564:9385
+[PR][21:37:29][49437][C_PLAYER_LOCATION] R-> type:0 w:1.799 loc:34882:38591:9389
+[PR][21:37:29][49561][C_PLAYER_LOCATION] R-> type:0 w:1.013 loc:34879:38608:9389
+[PR][21:37:29][49696][C_PLAYER_LOCATION] R-> type:0 w:0.228 loc:34889:38623:9388
+[PR][21:37:29][49716][C_PRESS_SKILL] R-> skill:20200 press:1 w:-2.914 loc:34891:38623:9388 unkn1:undefined unkn2:undefined unkn3:undefined
+[PR][21:37:29][49716][S_ACTION_END] <-F skill:111000 type:4 loc:34891:38623:9388
+[PR][21:37:29][49717][S_ACTION_STAGE] <-F skill:20200 stage:0 speed:1 ps:1 es:1 w:-2.914 loc:34891:38623:9388 dest:0:0:NaN animSeq:[]
+[PR][21:37:29][49803][C_PRESS_SKILL] R-> skill:20200 press:0 w:-2.914 loc:34892:38623:9387 unkn1:undefined unkn2:undefined unkn3:undefined
+[PR][21:37:29][49803][S_ACTION_END] <-F skill:20200 type:10 loc:34892:38623:9387
+[PR][21:37:29][49811][C_PLAYER_LOCATION] R-> type:0 w:0.228 loc:34892:38624:9387
+[PR][21:37:29][49919][S_ABNORMALITY_BEGIN] <-R id:201700 stacks:1 duration:1000
+[PR][21:37:29][49919][S_ABNORMALITY_BEGIN] <-R id:22040 stacks:1 duration:10000
+[PR][21:37:29][49920][S_ACTION_STAGE] <-R skill:20200 stage:0 speed:1 ps:1 es:1 w:-2.914 loc:34891:38623:9388 dest:0:0:0 animSeq:[]
+[PR][21:37:29][49920][S_ACTION_END] <-R skill:20200 type:51 loc:34891:38623:9388
+[PR][21:37:29][49920][EMULATION-VALIDATION] NOT CORRECT TYPE
+[PR][21:37:30][50183][C_PLAYER_LOCATION] R-> type:0 w:-0.556 loc:34936:38633:9381
+[PR][21:37:30][50221][C_PLAYER_LOCATION] R-> type:0 w:-1.341 loc:34939:38630:9380
+[PR][21:37:30][50282][S_ABNORMALITY_END] <-R id:101
+[PR][21:37:30][50396][C_PLAYER_LOCATION] R-> type:7 w:-1.341 loc:34945:38607:9381
+[PR][21:37:30][50797][S_ABNORMALITY_END] <-R id:201700
+[PR][21:37:39][59778][S_ABNORMALITY_END] <-R id:22040
+[PR][21:37:48][68433][S_ABNORMALITY_END] <-R id:201809

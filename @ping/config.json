@@ -1,0 +1,7 @@
+{
+	"pingRenewTimer": 150,
+	"maxPingCacheSize": 25,
+	"maxAcceptedJitter": 300,
+	"usingVPN": false,
+	"fakePing": false
+}
